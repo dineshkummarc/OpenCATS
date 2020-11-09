@@ -1,5 +1,5 @@
 {
-    "name": "OpenCATS/OpenCATS",
+    "name": "open-cats/open-cats",
     "require-dev": {
         "behat/behat": "~3.0.4",
         "phpunit/phpunit": "^7",
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "OpenCATS\\": "src/OpenCATS/"
+            "open-cats\\": "src/open-cats/"
         }
     },
     "require": {
